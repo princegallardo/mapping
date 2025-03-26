@@ -1,1 +1,1 @@
-![Alt text](map.png)
+![Alt text](../image/map.png)
